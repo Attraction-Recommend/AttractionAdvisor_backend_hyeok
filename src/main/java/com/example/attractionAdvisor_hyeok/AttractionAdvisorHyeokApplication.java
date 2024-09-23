@@ -9,7 +9,6 @@ public class AttractionAdvisorHyeokApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AttractionAdvisorHyeokApplication.class, args);
 	}
-
 }
 
 
